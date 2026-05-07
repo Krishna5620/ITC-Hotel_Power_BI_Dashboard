@@ -4,8 +4,6 @@
 ## Project Overview
 This project is a Power BI Dashboard developed to analyze the business performance of ITC Hotels. The dashboard provides insights into revenue trends, occupancy rates, room category performance, cancellations, and booking behavior.
 
-## Dataset 
-https://drive.google.com/drive/folders/1MGuNzDWtKF1cp4oiaMroRvmU0ZuLp1ah
 
 <img width="1280" height="720" alt="Image_power_bi" src="https://github.com/user-attachments/assets/6d5726ec-c612-4ec5-a9a1-007f4ea2dc65" />
 
